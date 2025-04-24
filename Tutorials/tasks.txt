@@ -1,0 +1,107 @@
+Great! If you're learning **Pandas**, hands-on practice with real-world datasets is the best way to master it. Here are some beginner-friendly **real-world application assignments** using **Pandas** that you can work on:
+
+---
+
+### ✅ **1. World Population Data Analysis**
+**Dataset**: `world_population.csv`  
+**Tasks:**
+- Load and clean the dataset.
+- Find the top 10 most populated countries.
+- Plot population vs. country.
+- Calculate the average population.
+- Find countries with more than 2% of the world’s population.
+
+---
+
+### ✅ **2. COVID-19 Cases Tracker**
+**Dataset**: Global COVID-19 data from [Our World in Data](https://ourworldindata.org/covid-cases)  
+**Tasks:**
+- Show total cases/deaths per country.
+- Find the country with the highest death rate.
+- Plot cases over time for a specific country.
+- Compare multiple countries using a line graph.
+
+---
+
+### ✅ **3. Sales Data Analysis**
+**Dataset**: `sales.csv` (e.g. with columns: `Date`, `Product`, `Quantity`, `Price`)  
+**Tasks:**
+- Total revenue per product.
+- Most sold product.
+- Total sales by month.
+- Plot monthly sales as a bar chart.
+
+---
+
+### ✅ **4. Netflix Movies Dataset**
+**Dataset**: [Netflix Movies on Kaggle](https://www.kaggle.com/shivamb/netflix-shows)  
+**Tasks:**
+- Filter all movies added after 2015.
+- Count shows per country.
+- Most common genres.
+- Find movies longer than 2 hours.
+- Export results to a new CSV.
+
+---
+
+### ✅ **5. Students Grades Tracker**
+**Dataset**: `grades.csv` (e.g. `Name`, `Math`, `English`, `Science`)  
+**Tasks:**
+- Calculate average marks for each student.
+- Find top 3 students.
+- Number of students who failed in any subject.
+- Visualize class performance with bar graphs.
+
+---
+
+### ✅ **6. Amazon Product Reviews**
+**Dataset**: `amazon_reviews.csv`  
+**Tasks:**
+- Find average rating per product.
+- Filter 5-star reviews only.
+- Count reviews per product.
+- Visualize most reviewed products.
+
+---
+
+### ✅ **7. Weather Data Analysis**
+**Dataset**: `weather.csv` (columns like: `Date`, `Temperature`, `Humidity`, `Wind`)  
+**Tasks:**
+- Max and min temperature.
+- Days with high humidity.
+- Average weather per month.
+- Plot temperature trends.
+
+---
+
+### ✅ **8. YouTube Trending Videos**
+**Dataset**: [YouTube Trending on Kaggle](https://www.kaggle.com/datasnaek/youtube-new)  
+**Tasks:**
+- Most trending channels.
+- Most used video tags.
+- Average views, likes, dislikes per category.
+- Plot top 10 videos by views.
+
+---
+
+### ✅ **9. Airbnb Listings**
+**Dataset**: [Airbnb Listings](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)  
+**Tasks:**
+- Average price per borough.
+- Top 5 most expensive listings.
+- Most reviewed listings.
+- Bar chart of listings per neighborhood.
+
+---
+
+### ✅ **10. IPL Cricket Dataset**
+**Dataset**: IPL matches and player stats  
+**Tasks:**
+- Most runs by a player.
+- Best bowler (most wickets).
+- Most matches won by a team.
+- Plot performance of players.
+
+---
+
+Would you like me to share one of these datasets with you or help you get started with code on one of them? 😊
